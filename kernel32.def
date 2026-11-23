@@ -1,0 +1,8 @@
+LIBRARY kernel32.dll
+EXPORTS
+GetModuleHandleW=_GetModuleHandleW@4
+Sleep=_Sleep@4
+CreateThread=_CreateThread@24
+DisableThreadLibraryCalls=_DisableThreadLibraryCalls@4
+VirtualProtect=_VirtualProtect@16
+FlushInstructionCache=_FlushInstructionCache@12

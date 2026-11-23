@@ -1,0 +1,1 @@
+Clean RC2 gameplay/startup/native-loop/no-readback tests passed. Production source built /O2 /Oi- /Oy-. Diagnostic-only assertions removed; gameplay and ABI assertions retained. Binary imports audited: six kernel32 functions only; no exports. In-game cleanup confirmation pending.
